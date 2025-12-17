@@ -1,25 +1,43 @@
-# Marketing Campaign Performance & ROI Analysis
+# 📊 Marketing Campaign Performance & ROI Analysis
 
 ## 📌 Project Overview
-This project analyzes marketing campaign performance using Python.
-It focuses on KPIs such as CTR, Conversion Rate, and ROI.
+This project focuses on analyzing marketing campaign performance using Python.
+The objective is to evaluate the effectiveness of different campaigns and marketing channels by calculating key performance indicators (KPIs) such as Click-Through Rate (CTR), Conversion Rate, and Return on Investment (ROI).
 
-## 🛠 Tools & Libraries
+The analysis helps businesses understand which campaigns generate higher engagement, conversions, and profitability, enabling data-driven marketing decisions.
+
+---
+
+## 🛠️ Tools & Technologies
 - Python
 - Pandas
 - NumPy
 - Matplotlib
+- Jupyter Notebook
+
+---
+
+## 📂 Dataset
+The dataset used in this project is a public marketing campaign dataset obtained from Kaggle.
+
+Dataset link:  
+https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign
+
+The dataset contains customer and campaign-related information which is transformed into marketing performance metrics for analysis.
+
+---
 
 ## 📊 Key Features
-- Campaign-wise and channel-wise performance analysis
-- KPI calculation (CTR, Conversion Rate, ROI)
-- Data visualization for business insights
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Calculation of marketing KPIs:
+  - Click-Through Rate (CTR)
+  - Conversion Rate
+  - Return on Investment (ROI)
+- Campaign-wise and channel-wise performance comparison
+- Cost vs Revenue analysis
+- Business-oriented insights and recommendations
+- Data visualization using Matplotlib
 
-## ▶ How to Run
-1. Clone the repository
-2. Install dependencies
-3. Run the notebook/script
+---
 
-## 📈 Results
-- Identified high-ROI campaigns
-- Provided data-driven marketing recommendations
