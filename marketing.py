@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load dataset
-df = pd.read_csv("marketing_campaign.csv", delimiter=';', engine='python')
+df = pd.read_csv("marketing_campaign(1).csv", delimiter=';', engine='python')
 print(df.columns)
 df = df.rename(columns={
     "NumWebVisitsMonth": "Impressions",
